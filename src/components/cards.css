@@ -1,0 +1,38 @@
+.cards-layout{
+    margin: 2rem;
+}
+
+.card-body{
+    text-align: left;
+    padding: 0
+}
+
+.card-text{
+    color: #70757a;
+    letter-spacing: -0.2px;
+    font-weight: 600;
+}
+
+.card-title {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.card-title span{
+    font-size: 1rem;
+    font-weight: 500;
+    color: #5A5A5A;
+    vertical-align: top;
+    top: 5px;
+    position: relative;
+}
+
+.weather-description{
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.width-class {
+    width: 4rem;
+}

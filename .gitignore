@@ -1,0 +1,8 @@
+#testing
+coverage
+
+#node modules
+node_modules
+
+#misc
+.DS_Store
