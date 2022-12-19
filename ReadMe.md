@@ -1,5 +1,17 @@
 # Weather app
 
+This project is created using Vite and React.
+Vitest is used as test runner and React testing library is used for the unit tests
+
+Instractions for running app:
+- yarn install
+- yarn start
+- yarn test
+
+
+
+###########################################
+
 This assignment gives us a good understanding about the thought-process and the capabilities of the developer. This
 doesn’t have to be a rock-solid, highly scalable super fancy production-ready application, but just something that
 allows us to get an idea of the developer's skills and level.
@@ -33,3 +45,5 @@ NOTE:
 - To get the data for current weather use this api https://openweathermap.org/current
     - Sign up for an API key, they have a free plan available
 - Code assessment is to test your frontend skills and your way of thinking
+
+
